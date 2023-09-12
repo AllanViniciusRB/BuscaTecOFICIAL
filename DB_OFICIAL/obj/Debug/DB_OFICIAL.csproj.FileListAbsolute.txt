@@ -1,0 +1,11 @@
+C:\Users\Allan\source\repos\DB_OFICIAL\DB_OFICIAL\bin\Debug\DB_OFICIAL.exe.config
+C:\Users\Allan\source\repos\DB_OFICIAL\DB_OFICIAL\bin\Debug\DB_OFICIAL.exe
+C:\Users\Allan\source\repos\DB_OFICIAL\DB_OFICIAL\bin\Debug\DB_OFICIAL.pdb
+C:\Users\Allan\source\repos\DB_OFICIAL\DB_OFICIAL\obj\Debug\DB_OFICIAL.csproj.AssemblyReference.cache
+C:\Users\Allan\source\repos\DB_OFICIAL\DB_OFICIAL\obj\Debug\DB_OFICIAL.Form1.resources
+C:\Users\Allan\source\repos\DB_OFICIAL\DB_OFICIAL\obj\Debug\DB_OFICIAL.Properties.Resources.resources
+C:\Users\Allan\source\repos\DB_OFICIAL\DB_OFICIAL\obj\Debug\DB_OFICIAL.csproj.GenerateResource.cache
+C:\Users\Allan\source\repos\DB_OFICIAL\DB_OFICIAL\obj\Debug\DB_OFICIAL.csproj.CoreCompileInputs.cache
+C:\Users\Allan\source\repos\DB_OFICIAL\DB_OFICIAL\obj\Debug\DB_OFICIAL.exe
+C:\Users\Allan\source\repos\DB_OFICIAL\DB_OFICIAL\obj\Debug\DB_OFICIAL.pdb
+C:\Users\Allan\source\repos\DB_OFICIAL\DB_OFICIAL\obj\Debug\DB_OFICIAL.CadastroUsuario.resources
